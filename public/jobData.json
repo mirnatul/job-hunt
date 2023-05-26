@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "company_logo": "/picture/jobCompanyLogo/amazon.webp",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Remote",
+        "location": "Texas, USA",
+        "full_or_part_time": "Full Time",
+        "salary": "100K-150K",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputation university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": [
+            "01750-00 00 00",
+            "info@gmail.com"
+        ]
+    },
+    {
+        "id": 2,
+        "company_logo": "/picture/jobCompanyLogo/google.png",
+        "job_title": "Senior Product Designer",
+        "company_name": "Google LLC",
+        "remote_or_onsite": "Onsite",
+        "location": "Utah, USA",
+        "full_or_part_time": "Full Time",
+        "salary": "100K-150K",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputation university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": [
+            "01750-00 00 00",
+            "info@gmail.com"
+        ]
+    },
+    {
+        "id": 3,
+        "company_logo": "/picture/jobCompanyLogo/ibm.png",
+        "job_title": "Software Engineer",
+        "company_name": "IBM",
+        "remote_or_onsite": "Onsite",
+        "location": "New York, USA",
+        "full_or_part_time": "Full Time",
+        "salary": "100K-150K",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputation university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": [
+            "01750-00 00 00",
+            "info@gmail.com"
+        ]
+    },
+    {
+        "id": 4,
+        "company_logo": "/picture/jobCompanyLogo/microsoft.png",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Microsoft",
+        "remote_or_onsite": "Remote",
+        "location": "Washington DC, USA",
+        "full_or_part_time": "Full Time",
+        "salary": "100K-150K",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputation university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": [
+            "01750-00 00 00",
+            "info@gmail.com"
+        ]
+    },
+    {
+        "id": 5,
+        "company_logo": "/picture/jobCompanyLogo/netflix.png",
+        "job_title": "Junior Product Manager",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Remote",
+        "location": "Dublin, Ireland",
+        "full_or_part_time": "Full Time",
+        "salary": "100K-150K",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputation university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": [
+            "01750-00 00 00",
+            "info@gmail.com"
+        ]
+    },
+    {
+        "id": 6,
+        "company_logo": "/picture/jobCompanyLogo/tesla.png",
+        "job_title": "Product Designer",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Onsite",
+        "location": "Texas, USA",
+        "full_or_part_time": "Full Time",
+        "salary": "100K-150K",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputation university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": [
+            "01750-00 00 00",
+            "info@gmail.com"
+        ]
+    }
+]
